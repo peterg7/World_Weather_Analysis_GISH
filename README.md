@@ -19,6 +19,7 @@ A travel company named PlanMyTrip has asked for help retrieving and analyzing we
 APIs:
 - OpenWeatherMap
 - Google Maps, Routes, and Places   
+- *Note: Need a file named `config.py` with unique API Key for each service*
 
 Packages:
 - Python 3.7.4
